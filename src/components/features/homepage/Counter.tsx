@@ -1,4 +1,4 @@
-import { Button } from '@/components/ui/button';
+import  Button  from '@/components/ui/button';
 import { Input } from '@/components/ui/input';
 import useCounter from '@/hooks/features/homepage/useCounter';
 
